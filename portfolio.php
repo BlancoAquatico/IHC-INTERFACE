@@ -33,7 +33,7 @@
                         <input type="radio" id="c1-img3" name="carousel1">
 
                         <div class="carousel-track">
-                            <img src="https://via.placeholder.com/500x500.png?text=Unha+em+Gel+1" alt="Exemplo 1 de Unha em Gel">
+                            <img src="Screenshot_5.png" alt="Exemplo 1 de Unha em Gel">
                             <img src="https://via.placeholder.com/500x500.png?text=Unha+em+Gel+2" alt="Exemplo 2 de Unha em Gel">
                             <img src="https://via.placeholder.com/500x500.png?text=Unha+em+Gel+3" alt="Exemplo 3 de Unha em Gel">
                         </div>
@@ -68,7 +68,7 @@
                         <input type="radio" id="c2-img3" name="carousel2">
 
                         <div class="carousel-track">
-                            <img src="https://via.placeholder.com/500x500.png?text=Fibra+de+Vidro+1" alt="Exemplo 1 de Alongamento em Fibra de Vidro">
+                            <img src="Screenshot_5.png" alt="Exemplo 1 de Alongamento em Fibra de Vidro">
                             <img src="https://via.placeholder.com/500x500.png?text=Fibra+de+Vidro+2" alt="Exemplo 2 de Alongamento em Fibra de Vidro">
                             <img src="https://via.placeholder.com/500x500.png?text=Fibra+de+Vidro+3" alt="Exemplo 3 de Alongamento em Fibra de Vidro">
                         </div>
