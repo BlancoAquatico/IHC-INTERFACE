@@ -1,0 +1,106 @@
+[
+    {
+        "nome_cliente": "Bruno Camilo",
+        "telefone": "17996345882",
+        "pagamento": "dinheiro",
+        "servicos": {
+            "manicure": {
+                "nome": "Manicure Tradicional",
+                "options": {
+                    "cor": "Francesinha"
+                }
+            },
+            "pedicure": {
+                "nome": "Pedicure Completa"
+            },
+            "unha_gel": {
+                "nome": "Aplica\u00e7\u00e3o de Unha em Gel",
+                "options": {
+                    "design": "Glitter Encapsulado"
+                }
+            },
+            "fibra_vidro": {
+                "nome": "Alongamento em Fibra de Vidro"
+            },
+            "spa_pes": {
+                "nome": "Spa dos P\u00e9s"
+            },
+            "esmalte_gel": {
+                "nome": "Esmalta\u00e7\u00e3o em Gel"
+            }
+        },
+        "preco_total": "470",
+        "duracao_total": "570",
+        "data_hora": "2025-10-03 11:30:00"
+    },
+    {
+        "nome_cliente": "Bruno Ribeiro",
+        "telefone": "17996345882",
+        "pagamento": "pix",
+        "servicos": {
+            "manicure": {
+                "nome": "Manicure Tradicional",
+                "options": {
+                    "cor": "Vermelho Intenso"
+                }
+            },
+            "pedicure": {
+                "nome": "Pedicure Completa"
+            }
+        },
+        "preco_total": 70,
+        "duracao_total": 105,
+        "data_hora": "2025-10-16 11:30:00"
+    },
+    {
+        "nome_cliente": "Bruno Camilo",
+        "telefone": "17996345882",
+        "pagamento": "pix",
+        "servicos": {
+            "manicure": {
+                "nome": "Manicure Tradicional",
+                "options": {
+                    "cor": "Vermelho Intenso"
+                }
+            }
+        },
+        "preco_total": 30,
+        "duracao_total": 45,
+        "data_hora": "2025-09-30 15:00:00"
+    },
+    {
+        "nome_cliente": "Bruno Camilo",
+        "telefone": "17996345882",
+        "pagamento": "dinheiro",
+        "servicos": {
+            "manicure": {
+                "nome": "Manicure Tradicional",
+                "options": {
+                    "cor": "Francesinha"
+                }
+            }
+        },
+        "preco_total": 35,
+        "duracao_total": 55,
+        "data_hora": "2025-09-30 15:30:00"
+    },
+    {
+        "nome_cliente": "Bruno Camilo",
+        "telefone": "17996345882",
+        "pagamento": "pix",
+        "servicos": {
+            "manicure": {
+                "nome": "Manicure Tradicional",
+                "options": {
+                    "cor": "Francesinha"
+                }
+            },
+            "spa_pes": {
+                "nome": "Spa dos P\u00e9s"
+            }
+        },
+        "preco_total": 85,
+        "duracao_total": 100,
+        "data_hora": "2025-09-30 16:00:00"
+    }
+]
